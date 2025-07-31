@@ -35,6 +35,14 @@ Install dependencies:
 npm install
 ```
 
+🛠️ Usage
+
+```bash
+npm run start
+```
+
+Open your browser and navigate to http://localhost:3000 to explore the zoo!
+
 ## 📁 Project Structure
 
 zoo-ts/
@@ -73,14 +81,20 @@ Fully unit-tested for reliability
 
 ## ⚙️ Scripts & Commands
 
-Command Purpose
-npm start Run the main zoo simulation
-npm test Execute test suite
-npm run build Transpile TypeScript
+| Command         | Purpose                     |
+| --------------- | --------------------------- |
+| `npm start`     | Run the main zoo simulation |
+| `npm test`      | Execute test suite          |
+| `npm run build` | Transpile TypeScript        |
 
-## 📸 Screenshots / Demo
+## 📸 Screenshots
 
 (Optional: Add images or GIFs of console output or visualizations if any)
+
+## 🌐 Live Demo
+
+Check out the live version hosted on GitHub Pages:  
+[🔗 Zoo-TS Demo](https://milanmmore.github.io/zoo-ts)
 
 ## 🙌 Contributors
 
