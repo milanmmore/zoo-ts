@@ -4,7 +4,7 @@ Welcome to zoo-ts, a TypeScript-based simulation of a vibrant digital zoo! This 
 
 In this project, all the Typescript OOPS concepts are implemented.
 
-![Zoo-TS Banner](banner-zoo.png)
+![Zoo-TS Banner](banner.png)
 
 ---
 
@@ -50,7 +50,9 @@ zoo-ts/
 ├── README.md # 📘 Project overview
 ├── package.json # 📦 Dependencies and scripts
 └── tsconfig.json # 🛠️ TypeScript configuration
-🧰 Technologies Used
+
+## 🧰 Technologies Used
+
 TypeScript 🧪
 
 Node.js 🔧
@@ -59,7 +61,8 @@ Jest (for testing) 🧫
 
 ES6 Modules 📦
 
-🎯 Features
+## 🎯 Features
+
 Add and manage animal species dynamically
 
 Simulate animal behaviors and interactions
@@ -68,16 +71,17 @@ Flexible design with interfaces and polymorphism
 
 Fully unit-tested for reliability
 
-⚙️ Scripts & Commands
+## ⚙️ Scripts & Commands
+
 Command Purpose
 npm start Run the main zoo simulation
 npm test Execute test suite
 npm run build Transpile TypeScript
-📸 Screenshots / Demo
+
+## 📸 Screenshots / Demo
+
 (Optional: Add images or GIFs of console output or visualizations if any)
 
-📜 License
-This project is licensed under the MIT License. 🆓
+## 🙌 Contributors
 
-🙌 Contributors
-Made with ❤️ by [Your Name] and open to collaboration!
+Made with ❤️ by Milan More and open to collaboration!
