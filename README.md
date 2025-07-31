@@ -49,37 +49,35 @@ Open your browser and navigate to http://localhost:3000 to explore the zoo!
 zoo-ts/
 │
 ├── src/
-│ ├── animals/ # 🦁 Individual animal classes and traits
-│ ├── behaviors/ # 🧠 Behavior patterns and interfaces
-│ ├── zoo/ # 🏛️ Zoo management logic
-│ ├── utils/ # 🔧 Utility functions
-│ └── index.ts # 🚪 Entry point
+│ ├── animals/              # 🦁 Individual animal classes and traits
+│ ├── behaviors/            # 🧠 Behavior patterns and interfaces
+│ ├── zoo/                  # 🏛️ Zoo management logic
+│ ├── utils/                # 🔧 Utility functions
+│ └── index.ts              # 🚪 Entry point
 │
-├── tests/ # ✅ Test files for unit & integration testing
-├── README.md # 📘 Project overview
-├── package.json # 📦 Dependencies and scripts
-└── tsconfig.json # 🛠️ TypeScript configuration
+├── tests/                  # ✅ Test files for unit & integration testing
+├── README.md               # 📘 Project overview
+├── package.json            # 📦 Dependencies and scripts
+└── tsconfig.json           # 🛠️ TypeScript configuration
 ```
 
 ## 🧰 Technologies Used
 
-TypeScript 🧪
-
-Node.js 🔧
-
-Jest (for testing) 🧫
-
-ES6 Modules 📦
+| Technology     | Description                                    |
+| -------------- | ---------------------------------------------- |
+| TypeScript 🧪  | Strongly typed language for scalable JS        |
+| Node.js 🔧     | Runtime environment for executing JS           |
+| Jest 🧫        | Testing framework for unit & integration tests |
+| ES6 Modules 📦 | Modular code structure using `import`/`export` |
 
 ## 🎯 Features
 
-Add and manage animal species dynamically
-
-Simulate animal behaviors and interactions
-
-Flexible design with interfaces and polymorphism
-
-Fully unit-tested for reliability
+| Feature                       | Description                                      |
+| ----------------------------- | ------------------------------------------------ |
+| 🐾 Dynamic Species Management | Add and manage animal species on the fly         |
+| 🤝 Behavior Simulation        | Simulate interactions and traits between animals |
+| 🧩 Interface-Based Design     | Use polymorphism for flexible architecture       |
+| ✅ Unit-Tested Reliability    | Thoroughly tested for consistent performance     |
 
 ## ⚙️ Scripts & Commands
 
