@@ -4,7 +4,7 @@ Welcome to zoo-ts, a TypeScript-based simulation of a vibrant digital zoo! This 
 
 In this project, all the Typescript OOPS concepts are implemented.
 
-![Zoo-TS Banner](banner.png)
+![Zoo-TS Banner](banner-zoo.png)
 
 ---
 
