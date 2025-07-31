@@ -93,8 +93,7 @@ zoo-ts/
 
 ## 🌐 Live Demo
 
-Check out the live version hosted on GitHub Pages:  
-[🔗 Zoo-TS Demo](https://milanmmore.github.io/zoo-ts)
+Check out the live version hosted on GitHub Pages: [🔗 Zoo-TS Demo](https://milanmmore.github.io/zoo-ts)
 
 ## 🙌 Contributors
 
