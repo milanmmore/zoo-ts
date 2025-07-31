@@ -45,6 +45,7 @@ Open your browser and navigate to http://localhost:3000 to explore the zoo!
 
 ## 📁 Project Structure
 
+```
 zoo-ts/
 │
 ├── src/
@@ -58,6 +59,7 @@ zoo-ts/
 ├── README.md # 📘 Project overview
 ├── package.json # 📦 Dependencies and scripts
 └── tsconfig.json # 🛠️ TypeScript configuration
+```
 
 ## 🧰 Technologies Used
 
