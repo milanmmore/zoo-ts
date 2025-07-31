@@ -1,20 +1,42 @@
-# 🐾 zoo-ts: TypeScript-Powered Animal Kingdom
+# 🐾 zoo-ts 🐘🦓🦒
 
-Welcome to **zoo-ts**, a TypeScript-based simulation of a vibrant digital zoo! This project models various animals, behaviors, and zoo operations using clean, scalable code.
+Welcome to zoo-ts, a TypeScript-based simulation of a vibrant digital zoo! This project models various animals, behaviors, and zoo operations using clean, scalable code.
+
+In this project, all the Typescript OOPS concepts are implemented.
+
+![Zoo-TS Banner](banner.png)
+
+---
+
+## 📛 Badges
+
+![TypeScript](https://img.shields.io/badge/code-TypeScript-blue?logo=typescript)
+![License](https://img.shields.io/badge/license-MIT-green)
+![CLI Tool](https://img.shields.io/badge/tool-Plop-yellow)
+![Status](https://img.shields.io/badge/status-Active-brightgreen)
+
+---
+
+## 📦 Features
+
+- 🐅 Animal Generator ⚙️
+- 🌴 Habitat Manager 🧱
+- 🍽 Feeding Scheduler ⏰
+- 🎛 Interactive CLI Interface
+- 🧠 Written with modern TypeScript
 
 ---
 
 ## 🚀 Getting Started
 
-### Installation
+Install dependencies:
 
 ```bash
-git clone https://github.com/your-username/zoo-ts.git
-cd zoo-ts
 npm install
 ```
 
-📁 Project Structure
+## 📁 Project Structure
+
 zoo-ts/
 │
 ├── src/
